@@ -8,7 +8,9 @@ File requires to be put into folder with a folder named output_data. A file name
 Files use the following modules: hvplot.pandas, pandas, requests, matplotlib.pyplot, numpy, datetime, time, scipy.stats, and scipy.constants. 
 ## Contributors
 EdX code was used for almost the entire project, except for:
+
 -Used datetime date function once to convert UNIX timestamps before analysis. <https://docs.python.org/3/library/datetime.html>
+
 -Used convert_Temperature in both jupyter notebook files before dataframe analysis from scipy. <https://docs.scipy.org/doc/scipy/reference/generated/scipy.constants.convert_temperature.html>
 ## License
 See License file. 
